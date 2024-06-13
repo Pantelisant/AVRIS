@@ -857,11 +857,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gridObject: {fileID: 6662174415517180126, guid: 81dad7d5552c9a341b390c79338fe0a4, type: 3}
-  rows: 10
+  rows: 20
   columns: 10
   rowsPerColumn: 10
   columnsPerRow: 10
-  spacing: 2
+  spacing: 1
 --- !u!1001 &442983480
 PrefabInstance:
   m_ObjectHideFlags: 0
