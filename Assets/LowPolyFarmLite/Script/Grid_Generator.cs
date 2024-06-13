@@ -26,6 +26,7 @@ public class Grid_Generator : MonoBehaviour
             {
                 Vector3 position = new Vector3(i*spacing,0,j*spacing);
                 Instantiate(gridObject,position,Quaternion.identity);
+                
             }
         }
     }
